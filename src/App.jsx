@@ -1,12 +1,16 @@
 // import { useState } from 'react'
 
+import { Outlet } from "react-router-dom"
+import Header from "./components/Header/Header.jsx"
+
 
 function App() {
- // const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>Heello world</h1>
+      <Header />
+      <Outlet />
     </>
   )
 }
