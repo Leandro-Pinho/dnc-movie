@@ -6,8 +6,8 @@ import './index.scss';
 
 // pages
 import App from './App.jsx';
-import Home from "./pages/Home/Home.jsx"
-import MovieDetails from "./pages/MovieDetail/MovieDetails.jsx"
+import Home from "./pages/Home/Home"
+import MovieDetails from "./pages/MovieDetail/MovieDetails"
 
 const router = createBrowserRouter([
   {
