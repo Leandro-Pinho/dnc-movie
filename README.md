@@ -1,5 +1,5 @@
-## Site Movie List
-# Um site de listagem de filmes, trazendo os dados de uma api
+# Site Movie List
+### Um site de listagem de filmes, trazendo os dados de uma api
 
 <img src="./public/Movie.png" alt="">
 
